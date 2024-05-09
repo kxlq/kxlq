@@ -1,7 +1,7 @@
 Hi 👋 My name is Kali.
 ======================
 
-Hello, welcome to my profile. I am kali, a 16 year old. I code in Luau, HTML, C++, C#, JS, Java, Python (currently learning C#) :)
+Hello, welcome to my profile. I am kali. I code in Luau, HTML, C++, C#, JS, Java, Python (currently learning C#) :)
 
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [kalireal@proton.me](mailto:kalireal@proton.me)
